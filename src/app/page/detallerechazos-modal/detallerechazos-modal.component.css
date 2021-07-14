@@ -1,0 +1,28 @@
+
+
+.filter{
+ margin-left:20px;
+ width: 95% !important;
+}
+
+.mat-column-myColumn{
+  width: 8% !important;
+}
+.mat-column-codregistro{
+  width: 10% !important;
+}
+.mat-column-vNoCuenta{
+  width: 6% !important;
+}
+.mat-column-vNumNeg{
+  width: 7% !important;
+}
+.mat-column-tipotrans{
+  width: 10% !important;
+}
+.mat-column-importe{
+  width: 10% !important;
+}
+.mat-column-referencia{
+  width: 8% !important;
+}
